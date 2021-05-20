@@ -1,4 +1,4 @@
-# Cats-vs-Dogs-Classification-using-CNN-Keras-
+# Cats-vs-Dogs-Classification-using-CNN-in-Keras
 
 Dataset Used: https://www.kaggle.com/c/dogs-vs-cats/data
 
